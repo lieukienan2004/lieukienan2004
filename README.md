@@ -1,12 +1,12 @@
 <h1 align="center">👋 Xin chào, tôi là Liêu Kiến An</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Welcome+to+my+profile!" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/lieukienan2004">
-    <img src="https://komarev.com/ghpvc/?username=lieukienan2004&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=lieukienan2004&color=green&style=flat-square&label=Profile+Views" alt="Profile views" />
   </a>
 </p>
 
@@ -40,12 +40,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lieukienan2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lieukienan2004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lieukienan2004&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=00ff00" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lieukienan2004&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lieukienan2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lieukienan2004&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideNums=00ff00&currStreakNum=00ff00&sideLabels=00ff00" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🐍 Con rắn ăn contribution
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lieukienan2004/lieukienan2004/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -53,7 +61,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lieukienan2004&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lieukienan2004&theme=matrix&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
