@@ -28,11 +28,7 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🚀 About Me
 
@@ -52,9 +48,6 @@ const lieuKienAn = {
 
 ### 💡 What I'm Up To
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" align="left">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" align="right">
-
 - 🔭 Currently working on **Full Stack Projects**
 - 🌱 Learning **Advanced JavaScript & Modern Frameworks**
 - 👯 Looking to collaborate on **Open Source Projects**
@@ -64,21 +57,9 @@ const lieuKienAn = {
 
 <br clear="both"/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100">
-</div>
-
 ---
 
 ## 🛠️ Tech Stack & Tools
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
 
 <div align="center">
 
@@ -117,15 +98,7 @@ const lieuKienAn = {
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
-
 ## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lieukienan2004&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&ring_color=00ff00"/>
@@ -142,10 +115,6 @@ const lieuKienAn = {
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
-</div>
-
 ## 🐍 Con rắn ăn contribution
 
 <p align="center">
@@ -153,10 +122,6 @@ const lieuKienAn = {
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50f8a7b-7a88-4fbc-b992-696e27d3e163.gif" width="1000">
-</div>
 
 ## 🏆 GitHub Achievements & Trophies
 
@@ -196,10 +161,6 @@ const lieuKienAn = {
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-</div>
-
 ## 🌐 Connect With Me
 
 
@@ -218,15 +179,13 @@ const lieuKienAn = {
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
 ## 💼 Featured Projects
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=lieukienan2004&repo=lieukienan2004&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff)](https://github.com/lieukienan2004/lieukienan2004)
+<a href="https://github.com/lieukienan2004/lieukienan2004">
+  <img src="https://img.shields.io/badge/🚀_My_GitHub_Profile-00ff00?style=for-the-badge&logo=github&logoColor=white" alt="Profile Repo" />
+</a>
 
 </div>
 
@@ -291,10 +250,6 @@ Other        █░░░░░░░░░░░░░░░░░░░░   5
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
-</div>
-
-<div align="center">
 
 ### 💭 Random Dev Quote
 
@@ -326,26 +281,18 @@ Other        █░░░░░░░░░░░░░░░░░░░░   5
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
-
-<div align="center">
   
-### Show some ❤️ by starring some of the repositories!
+### ⭐ Show some love by starring some of the repositories!
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:00cc00&height=120&section=footer" width="100%"/>
 
 <div align="center">
-  
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
 
 **⭐️ From [Liễu Kiện An](https://github.com/lieukienan2004) with 💚**
 
 *"Code is like humor. When you have to explain it, it's bad."*
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 **Thanks for visiting! Have a great day! 🚀**
 
