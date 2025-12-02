@@ -243,6 +243,102 @@ const lieuKienAn = {
 
 ---
 
+## 🎵 Spotify Playing
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+</div>
+
+<div align="center">
+  
+[![Spotify](https://novatorem-lieukienan2004.vercel.app/api/spotify?background_color=0d1117&border_color=00ff00)](https://open.spotify.com/user/lieukienan2004)
+
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lieukienan2004&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00ff00&bar_color_cover=true" alt="Spotify" />
+
+</div>
+
+---
+
+## 📊 3D Contribution Graph
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400">
+</div>
+
+<div align="center">
+  <a href="https://skyline.github.com/lieukienan2004/2024">
+    <img src="https://img.shields.io/badge/View_3D_Skyline-00ff00?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=lieukienan2004&theme=green" alt="3D Contribution" />
+</div>
+
+---
+
+## 🏅 Holopin Badges
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="200">
+</div>
+
+<div align="center">
+  <a href="https://holopin.io/@lieukienan2004">
+    <img src="https://holopin.me/lieukienan2004" alt="Holopin Badges" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://holopin.io/@lieukienan2004">
+    <img src="https://img.shields.io/badge/View_Holopin_Board-00ff00?style=for-the-badge&logo=holopin&logoColor=white" alt="Holopin" />
+  </a>
+</div>
+
+---
+
+## ⏱️ Weekly Coding Stats
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400">
+</div>
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   10 hrs 30 mins  ████████████░░░░░░░░░  50.00%
+TypeScript   5 hrs 15 mins   ██████░░░░░░░░░░░░░░░  25.00%
+HTML         2 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░  10.00%
+CSS          2 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░  10.00%
+JSON         1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░   5.00%
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+## 🎮 Let's Play a Game!
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="400">
+</div>
+
+<div align="center">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lieukienan2004&repo=lieukienan2004&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00)](https://github.com/lieukienan2004/lieukienan2004)
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/lieukienan2004">
+    <img src="https://img.shields.io/badge/Play_Tic_Tac_Toe-00ff00?style=for-the-badge&logo=github&logoColor=white" alt="Play Game" />
+  </a>
+</div>
+
+---
+
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -271,6 +367,41 @@ const lieuKienAn = {
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="400">
 
 <img src='https://readme-jokes.vercel.app/api?theme=radical&hideBorder' alt="Jokes Card" />
+
+</div>
+
+---
+
+## 🌟 Star History
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
+</div>
+
+<div align="center">
+  <a href="https://star-history.com/#lieukienan2004/lieukienan2004&Date">
+    <img src="https://api.star-history.com/svg?repos=lieukienan2004/lieukienan2004&type=Date&theme=dark" alt="Star History Chart" />
+  </a>
+</div>
+
+---
+
+## 🎯 Goals for 2024-2025
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="400">
+</div>
+
+<div align="center">
+
+| Goal | Status |
+|------|--------|
+| 🎯 Learn React Advanced | 🔄 In Progress |
+| 🎯 Build 5 Full Stack Projects | 🔄 In Progress |
+| 🎯 Contribute to Open Source | ✅ Started |
+| 🎯 Get 100 GitHub Followers | 🔄 In Progress |
+| 🎯 Master TypeScript | 🔄 In Progress |
+| 🎯 Learn Cloud Computing (AWS) | 📋 Planned |
 
 </div>
 
