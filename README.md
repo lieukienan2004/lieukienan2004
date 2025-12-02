@@ -14,6 +14,18 @@
   
 </div>
 
+<div align="center">
+  
+### 💖 Support My Work
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-💖_Support_Me-ff69b4?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/lieukienan2004)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-☕_Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/lieukienan2004)
+[![PayPal](https://img.shields.io/badge/PayPal-💰_Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/lieukienan2004)
+
+*If you like my work, consider buying me a coffee or becoming a sponsor!* ☕💚
+
+</div>
+
 <br/>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
@@ -111,10 +123,28 @@ const lieuKienAn = {
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Achievements & Trophies
 
 <div align="center">
+  
+### 🎖️ GitHub Profile Achievements
+  
+<a href="https://github.com/lieukienan2004">
   <img src="https://github-profile-trophy.vercel.app/?username=lieukienan2004&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</a>
+
+</div>
+
+<div align="center">
+  
+### 🏅 My GitHub Badges
+
+<img src="https://github.com/lieukienan2004/lieukienan2004/blob/main/.github/assets/achievements.png?raw=true" alt="GitHub Achievements" onerror="this.style.display='none'" />
+
+<a href="https://github.com/lieukienan2004?tab=achievements">
+  <img src="https://img.shields.io/badge/View_All_Achievements-00ff00?style=for-the-badge&logo=github&logoColor=white" alt="View Achievements" />
+</a>
+
 </div>
 
 <div align="center">
