@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Liễu+Kiện+An+👋;Full+Stack+Developer+💻;Open+Source+Enthusiast+🚀;Always+Learning+New+Things+📚;Welcome+to+my+GitHub+Profile!+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Lieu+Kien+An+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A;Welcome+to+my+GitHub+Profile!+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -13,12 +13,6 @@
   [![GitHub Stars](https://img.shields.io/github/stars/lieukienan2004?style=for-the-badge&color=00ff00&labelColor=1a1a1a)](https://github.com/lieukienan2004?tab=repositories)
   
 </div>
-
-<p align="center">
-  <a href="https://github.com/lieukienan2004">
-    <img src="https://komarev.com/ghpvc/?username=lieukienan2004&color=green&style=flat-square&label=Profile+Views" alt="Profile views" />
-  </a>
-</p>
 
 <br/>
 
@@ -182,9 +176,9 @@ const lieuKienAn = {
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote_category=programming)
 
-### 😂 Random Dev Meme
+### 😂 Random Dev Joke
 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://readme-jokes.vercel.app/api?theme=radical&hideBorder' alt="Jokes Card" />
 
 </div>
 
