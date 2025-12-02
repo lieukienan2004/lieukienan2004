@@ -160,10 +160,7 @@ const lieuKienAn = {
 
 ## 🏆 GitHub Achievements & Trophies
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="200" />
-</div>
+
 
 <div align="center">
   
@@ -176,13 +173,9 @@ const lieuKienAn = {
 </div>
 
 <div align="center">
-  
-### 🏅 My GitHub Badges
-
-<img src="https://github.com/lieukienan2004/lieukienan2004/blob/main/.github/assets/achievements.png?raw=true" alt="GitHub Achievements" onerror="this.style.display='none'" />
 
 <a href="https://github.com/lieukienan2004?tab=achievements">
-  <img src="https://img.shields.io/badge/View_All_Achievements-00ff00?style=for-the-badge&logo=github&logoColor=white" alt="View Achievements" />
+  <img src="https://img.shields.io/badge/🏅_View_All_My_Achievements-00ff00?style=for-the-badge&logo=github&logoColor=white" alt="View Achievements" />
 </a>
 
 </div>
@@ -209,11 +202,7 @@ const lieuKienAn = {
 
 ## 🌐 Connect With Me
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94bcec74.png" width="200" />
-</div>
+
 
 <div align="center">
   
@@ -243,17 +232,19 @@ const lieuKienAn = {
 
 ---
 
-## 🎵 Spotify Playing
+## 🎵 Now Playing
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+  <img src="https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif" width="200">
 </div>
 
 <div align="center">
   
-[![Spotify](https://novatorem-lieukienan2004.vercel.app/api/spotify?background_color=0d1117&border_color=00ff00)](https://open.spotify.com/user/lieukienan2004)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/lieukienan2004)
+[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com)
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lieukienan2004&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00ff00&bar_color_cover=true" alt="Spotify" />
+*🎧 Music is my coding fuel!*
 
 </div>
 
@@ -262,79 +253,28 @@ const lieuKienAn = {
 ## 📊 3D Contribution Graph
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400">
-</div>
-
-<div align="center">
   <a href="https://skyline.github.com/lieukienan2004/2024">
-    <img src="https://img.shields.io/badge/View_3D_Skyline-00ff00?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline" />
+    <img src="https://img.shields.io/badge/🏙️_View_3D_GitHub_Skyline_2024-00ff00?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=lieukienan2004&theme=green" alt="3D Contribution" />
 </div>
 
 ---
-
-## 🏅 Holopin Badges
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="200">
-</div>
-
-<div align="center">
-  <a href="https://holopin.io/@lieukienan2004">
-    <img src="https://holopin.me/lieukienan2004" alt="Holopin Badges" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://holopin.io/@lieukienan2004">
-    <img src="https://img.shields.io/badge/View_Holopin_Board-00ff00?style=for-the-badge&logo=holopin&logoColor=white" alt="Holopin" />
-  </a>
-</div>
 
 ---
 
 ## ⏱️ Weekly Coding Stats
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400">
-</div>
 
-<div align="center">
-
-<!--START_SECTION:waka-->
 ```text
-JavaScript   10 hrs 30 mins  ████████████░░░░░░░░░  50.00%
-TypeScript   5 hrs 15 mins   ██████░░░░░░░░░░░░░░░  25.00%
-HTML         2 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░  10.00%
-CSS          2 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░  10.00%
-JSON         1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░   5.00%
+💻 My Development Breakdown
+
+JavaScript   ████████████░░░░░░░░░  50.00%  ⭐ Primary
+TypeScript   ██████░░░░░░░░░░░░░░░  25.00%  🔥 Learning
+HTML/CSS     ████░░░░░░░░░░░░░░░░░  20.00%  🎨 Styling
+Other        █░░░░░░░░░░░░░░░░░░░░   5.00%  📦 Tools
 ```
-<!--END_SECTION:waka-->
 
-</div>
-
----
-
-## 🎮 Let's Play a Game!
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="400">
-</div>
-
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lieukienan2004&repo=lieukienan2004&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00)](https://github.com/lieukienan2004/lieukienan2004)
-
-</div>
-
-<div align="center">
-  <a href="https://github.com/lieukienan2004">
-    <img src="https://img.shields.io/badge/Play_Tic_Tac_Toe-00ff00?style=for-the-badge&logo=github&logoColor=white" alt="Play Game" />
-  </a>
 </div>
 
 ---
@@ -358,13 +298,9 @@ JSON         1 hr 3 mins     █░░░░░░░░░░░░░░░░
 
 ### 💭 Random Dev Quote
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote_category=programming)
 
 ### 😂 Random Dev Joke
-
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="400">
 
 <img src='https://readme-jokes.vercel.app/api?theme=radical&hideBorder' alt="Jokes Card" />
 
@@ -372,25 +308,7 @@ JSON         1 hr 3 mins     █░░░░░░░░░░░░░░░░
 
 ---
 
-## 🌟 Star History
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
-</div>
-
-<div align="center">
-  <a href="https://star-history.com/#lieukienan2004/lieukienan2004&Date">
-    <img src="https://api.star-history.com/svg?repos=lieukienan2004/lieukienan2004&type=Date&theme=dark" alt="Star History Chart" />
-  </a>
-</div>
-
----
-
 ## 🎯 Goals for 2024-2025
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="400">
-</div>
 
 <div align="center">
 
@@ -415,14 +333,6 @@ JSON         1 hr 3 mins     █░░░░░░░░░░░░░░░░
   
 ### Show some ❤️ by starring some of the repositories!
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
-
-![](https://hit.yhype.me/github/profile?user_id=lieukienan2004)
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300">
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:00cc00&height=120&section=footer" width="100%"/>
